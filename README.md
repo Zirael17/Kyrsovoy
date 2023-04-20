@@ -1,1 +1,1 @@
-#Kursovoy-Proekt
+*Kursovoy-Proekt
